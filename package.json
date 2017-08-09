@@ -12,6 +12,7 @@
     "mongodb": "^2.2.5"
   },
   "devDependencies": {
+    "express": "^4.15.4",
     "expressjs": "^1.0.1"
   }
 }

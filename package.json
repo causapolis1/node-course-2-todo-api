@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.30"
+    "mongodb": "^2.2.5"
+  },
+  "devDependencies": {
+    "expressjs": "^1.0.1"
   }
 }

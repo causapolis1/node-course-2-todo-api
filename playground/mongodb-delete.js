@@ -17,6 +17,6 @@ const {MongoClient, ObjectID} = require('mongodb');
 
   // findOneAndDelete
 
-  // db.close
+  db.close();
 
 });
